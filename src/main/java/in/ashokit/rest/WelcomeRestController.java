@@ -12,7 +12,7 @@ public class WelcomeRestController {
 	private Logger logger = LoggerFactory.getLogger(WelcomeRestController.class);
 
 	public WelcomeRestController() {
-		logger.info("***** WelcomeRestController::Constructor *****");
+		logger.info("***** WelcomeRestController::Thilaga to the new project *****");
 	}
 
 	@GetMapping
